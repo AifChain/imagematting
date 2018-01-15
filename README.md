@@ -1,4 +1,4 @@
-# Deep-Image-Matting
+# Deep Image Matting
 This is tensorflow implementation for paper "Deep Image Matting".
 
 Thanks to Davi Frossard, "vgg16_weights.npz" can be found in his blog:
